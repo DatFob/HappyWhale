@@ -1,3 +1,8 @@
+#ignore images
+test_images/
+train_images/
+train_images_subset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
