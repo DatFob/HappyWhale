@@ -2,6 +2,9 @@
 test_images/
 train_images/
 train_images_subset/
+cropped_test_images/
+cropped_train_images/
+U2Net/*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
