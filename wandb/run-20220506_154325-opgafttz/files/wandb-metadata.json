@@ -1,0 +1,21 @@
+{
+    "os": "macOS-12.3.1-x86_64-i386-64bit",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-05-06T22:43:27.297072",
+    "startedAt": "2022-05-06T22:43:25.180881",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "cs663_MachineLearning_JupyterNotebook/Happy-whale-Project/HappyWhale/Pytorch.ipynb",
+    "root": "/Users/caracao/Desktop/USFCA/CS663 Machine Learning/cs663_MachineLearning_JupyterNotebook/Happy-whale-Project/HappyWhale",
+    "git": {
+        "remote": "https://github.com/DatFob/HappyWhale",
+        "commit": "051264adea27f1c8dcd75bcee5c46aaa4f358dc2"
+    },
+    "email": "caracaoengineer@gmail.com",
+    "host": "Caras-MacBook-Pro.local",
+    "username": "caracao",
+    "executable": "/Users/caracao/opt/anaconda3/bin/python"
+}
